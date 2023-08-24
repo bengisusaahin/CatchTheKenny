@@ -6,4 +6,4 @@ This is an Android Java project that follows the course of @atilsamancioglu <br 
 ## How to Play?: 
 When you press the image of Kenny's your score will increase.
 
-<img src="https://github.com/bengisusaahin/CatchheKenny.png"> 
+<img src="Screenshot 2023-08-24 153343.png"> 
