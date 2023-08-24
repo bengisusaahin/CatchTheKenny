@@ -2,7 +2,7 @@
 
 This is an Android Java project that follows the course of @atilsamancioglu 
     <br />
-    <a href="https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/"><strong>Explore the course »</strong></a>
+    <a href="https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/"  target="_blank"><strong>Explore the course »</strong></a>
     <br />
   
 ## How to Play?: 
